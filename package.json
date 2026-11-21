@@ -1,0 +1,7 @@
+{
+  "name": "hana-qa-portfolio",
+  "private": true,
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2"
+  }
+}
